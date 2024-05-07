@@ -1,6 +1,4 @@
-# MultiPDF Chat App
-
-> You can find the tutorial for this project on [YouTube](https://youtu.be/dXxQ0LR-3Hg).
+# Fintech-Lab-GT-Summer-Research-Internship-Assignment
 
 ## Introduction
 ------------
@@ -36,9 +34,11 @@ To install the MultiPDF Chat App, please follow these steps:
 
 3. Obtain an API key from OpenAI and add it to the `.env` file in the project directory.
 ```commandline
-OPENAI_API_KEY=your_secrit_api_key
+OPENAI_API_KEY=your_secret_api_key
 ```
-
+```commandline
+HUGGINGFACEHUB_API_TOKEN=your_secret_api_key
+```
 ## Usage
 -----
 To use the MultiPDF Chat App, follow these steps:
